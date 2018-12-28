@@ -1,7 +1,6 @@
 //*********************
 
 Program of linefollower robot
-Video of robot: https://www.youtube.com/watch?v=ZDBzhmAAq_4
 
 ***********************//
 int incomingByte;
